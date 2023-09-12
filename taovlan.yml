@@ -1,6 +1,6 @@
 ---
 - name: demo
-  hosts: Switch
+  hosts: Hihi_Switch
 
   tasks:
     - name: Create vlan
